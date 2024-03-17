@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-image:"i" ;
+}
 video {
     position: fixed;
     top: 0;
@@ -61,7 +64,15 @@ video {
 
 
 
-
+.imagen-fondo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+  }
+  
 
 
 
