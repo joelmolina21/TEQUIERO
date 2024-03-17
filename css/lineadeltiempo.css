@@ -10,7 +10,7 @@ html{
 }
 body{
 	/*Imágen de fondo*/
-	background-image: url("/home/joelmn/Descargas/201-valentines-main/img/atardecer.jpg");
+	background-image: url("/img/");
 	/*Repectición del fondo*/
 	background-repeat: no-repeat;
 	/*Posición del fondo*/
@@ -46,7 +46,7 @@ section{
 	background-color: transparent;
 }
 #a1986{
-	background-image: url(/home/joelmn/Descargas/201-valentines-main/img/IMG_20230806_213333_694.jpg);
+	background-image: url("/img/IMG_20230806_213333_694.jpg");
 	background-repeat: no-repeat;
 	/*Posición del fondo*/
 	background-position: center top;
